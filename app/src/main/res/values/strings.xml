@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UmehM</string>
+    <string name="umehm">UmehM</string>
+    <string name="full_name">Full Name:</string>
+    <string name="real_name">Umeh Nnaemeka Michael</string>
+    <string name="slack_name">Slack Name:</string>
+    <string name="email">Email:</string>
+    <string name="tracks">Tracks:</string>
+    <string name="slk_name_id">Michaelzy</string>
+    <string name="email_id">umehmichael27@gmail.com</string>
+    <string name="track_id">Mobile(Java, Flutter)</string>
+</resources>
